@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1D1D1D">
+
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:gravity="center"
+        android:text="LAGU SUKU NGALUM"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/White"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+            <Button
+                android:id="@+id/db1"
+                android:layout_below="@+id/txt1"
+                android:layout_marginTop="38dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@drawable/osang_bara"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                />
+
+            <Button
+                android:id="@+id/db2"
+                android:layout_below="@+id/db1"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@drawable/bar_bara"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                />
+
+            <Button
+                android:id="@+id/db3"
+                android:layout_below="@+id/db2"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@drawable/neyumop" />
+
+            <Button
+                android:id="@+id/db4"
+                android:layout_below="@+id/db3"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@drawable/kurip_bara"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp" />
+
+            <Button
+                android:id="@+id/db5"
+                android:layout_below="@+id/db4"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@drawable/bar_salpa"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"/>
+
+            <Button
+                android:id="@+id/db6"
+                android:layout_below="@+id/db5"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@drawable/tekyal"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"/>
+
+</RelativeLayout>

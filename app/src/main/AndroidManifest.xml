@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lagu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/spotify"
+        android:label="Music Suku Ngalum"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SecondActivity6"
+            android:parentActivityName=".MainActivity"
+            android:label="Details"/>
+        <activity android:name=".SecondActivity5"
+            android:parentActivityName=".MainActivity"
+            android:label="Details"/>
+        <activity android:name=".SecondActivity4"
+            android:parentActivityName=".MainActivity"
+            android:label="Details"/>
+        <activity android:name=".SecondActivity3"
+            android:parentActivityName=".MainActivity"
+            android:label="Details"/>
+        <activity android:name=".SecondActivity2"
+            android:parentActivityName=".MainActivity"
+            android:label="Details"/>
+        <activity android:name=".SecondActivity"
+            android:parentActivityName=".MainActivity"
+            android:label="Details"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Home"/>
+        <activity android:name=".Kategori"/>
+        <activity android:name=".Kategori2"/>
+        <activity android:name=".Kategori3"/>
+        <activity android:name=".Kategori4"/>
+        <activity android:name=".Kategori5"/>
+        <activity android:name=".Kategori6"/>
+    </application>
+
+</manifest>

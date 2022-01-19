@@ -1,0 +1,485 @@
+<resources>
+    <string-array name="title">
+        <item>Aplim Pup 1</item>
+        <item>Aplim Pup 2</item>
+        <item>Aplim Pup 3</item>
+        <item>Aplim Pup 4</item>
+        <item>Aplim Pup 5</item>
+        <item>Aplim Pup 6</item>
+        <item>Aplim Pup 7</item>
+        <item>Aplim Pup 8</item>
+        <item>Aplim Pup 9</item>
+        <item>Aplim Pup 10</item>
+        <item>Bon Pup</item>
+        <item>Bon Ali pup</item>
+        <item>Alut pup</item>
+        <item>Sinir pup</item>
+        <item>Kudun pup</item>
+        <item>Angka pup</item>
+        <item>Basumup</item>
+        <item>Nangul pup</item>
+        <item>Tumi pup</item>
+        <item>Abmi pup</item>
+        <item>Silaka pup</item>
+        <item>Epil nangon pup</item>
+        <item>Ngupel pawil pup</item>
+        <item>Bape pup</item>
+        <item>Bolo pup</item>
+        <item>Sop tangrin</item>
+        <item>Sibil Beta abib</item>
+        <item>Bukam tangrin</item>
+        <item>Parim pup</item>
+        <item>Kol pup</item>
+        <item>Dakun pup</item>
+        <item>Sop bini</item>
+        <item>Atenok</item>
+        <item>Baingarem</item>
+        <item>Abong banep</item>
+        <item>Aom pup</item>
+        <item>Bako pup</item>
+        <item>Sop Tangrin</item>
+        <item>Dopsibi pup</item>
+        <item>Pilem pup</item>
+        <item>Epil nangon pup</item>
+        <item>Kamen pup</item>
+        <item>Kamen pup</item>
+        <item>Sop semakot</item>
+        <item>Ngam-Ngam Pembukaan</item>
+        <item>Ngam-ngam Pertengahan</item>
+        <item>Ngam-ngam Penutup</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Lim kitoka moraro  Apom kitoka moraro, Lim kitok Apom kitok morep daupoR</item>
+        <item>Lim dilbon melpaklo dakan dengdemep, na Apom dilbon melpakla.</item>
+        <item>Yuk delek nonga, apla delek nonga bomo dimo tamipo.</item>
+        <item>Kekenmaro,  naplimsibil  diken aorkona werik kenkenmaro.</item>
+        <item>Lim tuma dimaro, Apom tuma dimaro, Lim tuma Apom tuma direp daupo.</item>
+        <item>Lim sarar bakona Apom sarar bakona nepenek depayo.</item>
+        <item>Lim ngun-ngun aip, Apom ngun-ngun aip nepenek depayo/daero.</item>
+        <item>Lim depenong, na Apom depenong, nepenek saklik uruno donoko.</item>
+        <item>Lim setu nong,  Apom setunonga dundaklep dun yawamoko.</item>
+        <item>Yum enemo, tanglo enemo, yum irirok bakon, yum enemo.</item>
+        <item>Bon wananga tale tenam wawanio, tenam wananga tale bon wawanio.</item>
+        <item>Bon bung ererme, Bonali bung ererme, kurune.</item>
+        <item>Nonga tuplemipo, amuta tuplemipo, lakon kolemdama nenong mangopki tuplepo.</item>
+        <item>Betlipkur yambula, tena mukdire, tena batdiep unemo apsinir palpolka kaka wol betlipo.</item>
+        <item>Lip makot, Angka makot tan daika ne nal kutor manot wenga  aban depipo.</item>
+        <item>Bayo sumupo sumupsimitkur nginunep olkuloltan ika bikan dakloko/ iktaktoka kularo.</item>
+        <item>Bayo sumupo dio demare,  Bading tan abenonga dio demaro.</item>
+        <item>Mom tibep tena son waeron sikinao, apnangul sikina ewen alut kona dongbino ngetbineka ebalinon sikinao.</item>
+        <item>Amaro tumdirwenga amaro, sepnekayaki amaro, doyo kaseng mirimki tepno amaro.</item>
+        <item>Nganokno abmia pipilpu parep okmi lula edo bapenka lula edo.</item>
+        <item>Oksilaka tilkikor kalin setpeweng nipo kaya silaka tum baripmo nipno setpewengnipo.</item>
+        <item>Kasitbirim nginunep yonoka tumdondon borayo.</item>
+        <item>Ngupelo Pawilo angola tenaro yaranekot bitipok takankot son angola tenar o mitkot yaranekot unemo.</item>
+        <item>Bape tumdon etep epkene  Yamil tumdon etep epkene.</item>
+        <item>Bolo pup: Apmasima kakapeldondon sikinao, mimdoptok yabuntok unupsea kaklo lao unipo eroknipo, darek unupsea kamsemlao unipo erimo.</item>
+        <item>Ne kaberima tepki ngulanare oksopdol ngulanar, kora kaberimkitep ngulanare.</item>
+        <item>Sibil beta abib kasapun bamaro amo kopkulep yoko.</item>
+        <item>Bukam ding birkur wokur apbukama kalen ngine-ngine naro oko beteno arenio.</item>
+        <item>Kakakiono depeserik parim ubop liktepkio nerepo.</item>
+        <item>Kolbung dire kola marapbung dire, tenakor ambano kupki yoke?.</item>
+        <item>Om boneng dendiripmino, buro wol-wol dakip were unemo, dakun pasika peedo talbila puedo.</item>
+        <item>Bakbulungkon bunga kait boneng bakar sing mire kakaserip Sopbinisikin tabong wolomo.</item>
+        <item>Kor isomkor mire upere kaka serep aplim angola tenok sibil unem.</item>
+        <item>Biknur koknur baing wanomo.</item>
+        <item>Nongkim akim kikopo okdayurbin mopkoren nginep koren dauk kikopo.</item>
+        <item>Dake okbung dingtan wengsen tameo, mik wiwiya edo telel wiwiya maedo, amil maedo,  wirin maedo.</item>
+        <item>Okbakoa andikiraro, mabinkora ngin sirburtamio dartamio.
+        Okbako, okipur, kita andikirmereraro, kita pakorarro.</item>
+        <item>Sop sulbung siwol a tangin a dundupmo donguguyayo.</item>
+        <item>Dopsibia ibina bumen demesero, ne abensir sikina nek pa bumendemomep.</item>
+        <item>Apsikin poma nginero ewen alutkona dakyong-dakyong neneka okasilbon tole wolaka kopkulo yoe okarip balieron kio.</item>
+        <item>Sep nelakon kia pa daenso nginunep okyona bora, okepil yona bora edo oknangon yona boromer.</item>
+        <item>Oksit dikirbon daero, kulemsambup lela nar oo, nea yakwolki neka buliptana esipseron kio.</item>
+        <item>Okenebor nginero apakandon nginero,  ne nal marikim ok enebor nginero.</item>
+        <item>Sop semakot bakon daero, siwayurimbir puko daero. Sop semakot bakon siwayurimbir puko amo dulangmaro.</item>
+        <item>Kosokor kaletkor menkitok mena dakankot limben apomben unipo.</item>
+        <item>Bilim daketbung oknengkanip,  oknengneng kasirep daoko, sepa okneng dinglao nea okneng taoplao.</item>
+        <item>Abidirumkor mangoldirumkor tibo tale wanderepbalia kol ok abenong yumin yuma erepnep erepnoko.</item>
+    </string-array>
+
+    <string-array name="adalah">
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+    </string-array>
+
+    <string-array name="terjemahan">
+        <item>(Ap) Lim tampak megah, gagah dan  berjaya, Apom tampak megah, gagah dan  berjaya, kami datang sebab (Ap) Lim dan  Apom tampak megah, gagah dan  berjaya.</item>
+        <item>Bila anda berdansa di atas  lantai (Ap) Lim dengan baik dan benar, saya berdansa di atas lantai Apom.</item>
+        <item>Tali delek dari luar, tali delek dari dalam sedang putus nyambung.</item>
+        <item>Tubuh semakin panas, saya berasal dari Aplim makan diken aorkon, tubuh saya semakin panas.</item>
+        <item>Batu (Ap) Lim tersusun, batu Apom tersusun, batu (Ap) Lim dan Apom tersusun dan kami datang.</item>
+        <item>Wilayah (Ap) Lim sarar bakon, wilayah Apom sarar bakon, andai saya mendapatkannya.</item>
+        <item>Lim bergema, Apom bergema, andai saya menggenggamnya.</item>
+        <item>Pegang tali dari (Ap)Lim, saya pegang tali dari Apom, andai saya putus suaranya akan merdu.</item>
+        <item>Tali setunong dari (Ap) Lim, tali setunong dari Apom lemparlah kemari agar disemarkan.</item>
+        <item>Mari makan bersama, bagi-bagi baru makan, semua di irirok bakon, mari makan bersama.</item>
+        <item>Perempuan dari wilayah Bon pergi ke Tenam dan sebaliknya perempuan Tenam pergi ke Bon.</item>
+        <item>Air terjun Bon mengalir deras, air terjun Bonali mengalir deras, ayo pergilah.</item>
+        <item>Tali diambil, kayu diambil, sobat Kolemdam engkau mengambil tali dan kayu saya yang sangat penting.</item>
+        <item>Betlipkur, menyusuilah anakmu, gendonglah dan  marilah segara kita pergi,  sebab orang jahat sedang berjaga-jaga di Apsinir.</item>
+        <item>Ketika saya tiba di muara Oklip dan Angka mendengar kicauan burung kutor manot  sedang bergembira ria.</item>
+        <item>Sumupsimitkur engkau pergi ke daerah yang jauh dan dari tubuhmu terpancar pesona alam yang menakjubkan</item>
+        <item>Kabut mau menutupi wilayah Bayo Sumup, sudah mulai dari atas gunung Bading.</item>
+        <item>Bila paman mau pergi keponakan juga harus ikut bersama-sama ke gunung itu, gunung Nangulsikin daun-daun pohon pandan melambai-lambai membuat kami tidak mau meninggalnya.</item>
+        <item>Ia menangis tumdirweng menangis, sahabatku menangis, Ia menangis seperti setan mirimki.</item>
+        <item>Andai saya di puncak gunung abmi saya timba air dari okmi atau dari bapenka.</item>
+        <item>Perempuan oksilaka berhura-hura, sepertinya mereka menggeser-geser batu kali oksilaka sambil berhura-hura.</item>
+        <item>Kasitbirim pergi meninggalkan bekas kaki di batu-batu.</item>
+        <item>Gunung Ngupel dan Pawil apinya menyala, hura-hura ambil lumut basah, apinya menyala, kita pergi hura-hura.</item>
+        <item>Berdirilah di batu kali Okbape agar kelihatan, berdirilah di batu kali Okyamil agar kelihatan.</item>
+        <item>Apmasim gunung tempat pemakaman jenazah di atas pohon, bila kita pergi malam hari mereka curiga kita suami stri, bila kita pergi siang mereka menganggap kita bersaudara.</item>
+        <item>Seperti sahabat saya yang turun ke kali Oksop, seperti sahabat saya yang turun.</item>
+        <item>Pagar pohon dedaunan merah di rumah adat Sibil Beta Abib melambai-lambai, apakah anda menangis sambil melihatnya?.</item>
+        <item>Putri-putri asal Bokamding berkulit hitam dan putih, gunung Bukam semakin menjulang tinggi, berilah air dan rokok padanya.</item>
+        <item>Saya memegang anda  karena menganggap anda manusia tetapi anda mengatakan kepada saya seperti duri pohon ubop.</item>
+        <item>Bolak-balik ke air terjun Kolbung dan Marapbung, keponakan ambano apakah anda punya?.</item>
+        <item>Lapar ubi dan keladi, bawalah kemari supaya kita makan dan pergi segera, apakah ini puncak Dakun atau itu Talbil?.</item>
+        <item>Rombongan Bakbulungkon masak boneng bakar dan membagi-bagikannya untuk bekal melewati  pegunungan Sopbinisikin.</item>
+        <item>Kor isomkor masaklah dan berilah makan kepada semua orang supaya kita pergi ke gunung aplim angol atenok.</item>
+        <item>Dua perempuan dari Baingarem saling memuji dan sama-sama suka</item>
+        <item>Berdansa sambil mengajak untuk sambung menyambung antar sesama kelompok penari.</item>
+        <item>Turun dan dengarkanlah dari atas air terjun, suara burung mik atau suara burung telel, mungkin ada sarangnya, mungkin ada telurnya.</item>
+        <item>Sungai Okbako telah mengalir sempurna, semua saudariku naik dan lihatlah. Sungai Okbako, Okipur mengalir sempurna dan berkilau,  lebih berkilau.</item>
+        <item>Ranting pohon kekayaan di air terjun Sopsulbung berkali-kali menutup dan membuka jalur air sehingga bunyinya menderu-deru</item>
+        <item>Gunung Dopsibi diselimuti awan, puncak yang sudah saya lewati jadi boleh  diselimuti awan.</item>
+        <item>Saya naik ke puncak gunung dan ketika mendengar bunyi-bunyi daun pandan melambai-lambai saya rindu  kembali dataran rendah.</item>
+        <item>Sahabatku engkau turun dan kembali meninggalkan bekas kaki, apakah bekas kaki  arah kali Okepil atau  arah kali  Oknangon.</item>
+        <item>Saya turun ke daerah dataran rendah yang sungainya berliku-laku dan pepohonan kulem melambai-lambai, saya dari dataran tinggi jadi tidak bisa ganti dengan pohon bulip.</item>
+        <item>Saya naik ke tempat minum air dan bekas rumah,  saya naik ke tempat minum air burung rangkong.</item>
+        <item>Saya tiba di lembah muara sungai Oksop dan Okse, turun untuk siwayurimbir. Menangis sambil geleng-geleng kepala untuk siwayurimbir di lembah muara sungai Oksop dan Okse.</item>
+        <item>Kosokor dan Kaletkor memakai noken dan mereka pergi ke Aplim dan Apom.</item>
+        <item>Bilim daketbung oknengkanip, bagilah wilayah berdasarkan air terjun,  anda di bagian atas air terjun dan saya bagian bawah air terjun.</item>
+        <item>Dari awal dan berakhirnya abidirumkor dan mangoldirumkor segala penciptaan di langit dan bumi menjadi nyata.</item>
+    </string-array>
+
+    <string-array name="makna">
+        <item>Aplim Pup merupakan lagu pembukaan dalam pesta dansa Oksang. Lagu ini bersifat sakral, diyakini sebagai lagu pertama yang dinyanyikan leluhur Aplim Apom setelah membangun Oksang Aip/Abib (bangunan tarian Oksang). Lagu Aplim Pup mengandung makna kemegahan, kegagahan dan kejayaan manusia Aplim Apom. Ketika lagu tersebut dinyanyikan para penari menyatakan Aplim Apom sudah megah, gagah dan  berjaya. Semua terjadi atas perlindungan,  tuntunan dan campur tangan Atangki dan leluhur, maka hendaklah  bersama-sama bersuka cita mensyukuri segala kelimpahan yang diberikan dan memohon agar  manusia, ternak dan tanaman senantiasa berkembang baik dan bertumbuh subur.</item>
+        <item>Lagu tersebut menggambarkan dua kelompok komunitas adat yang melambangkan dua gunung sakral, yaitu Aplim sebagai  lambang Basen dan Apom sebagai lambang Tukon.  Masing-masing membangun komunitas adatnya berdasarkan nilai-nilai yang di wariskan leluhur Aplim dan Apom. Dua komunitas tersebut memiliki kekayaan yang berbeda-beda, yaitu Basen memiliki kekayaan pengetahuan untuk memanusiakan manusia, sedangkan Tukon memiliki kekayaan ekonomi untuk kesejahteraan dan kemakmuran. Oleh karena itu, dalam kehidupannya  selalu saling melengkapi. Makna lirik lagu tersebut adalah merajut persatuan dan kesatuan sebagai manusia Aplim Apom untuk mewujudkan kehidupan yang cerdas, damai dan sejahtera.  Mereka memandang tanpa persatuan dan kesatuan segala tujuan hidup bersama tidak akan terwujud.</item>
+        <item>Dalam lirik lagu tersebut, yuk deleknonga artinya tamu dan apla deleknonga artinya pihak tuan rumah. Lagu ini menggambarkan kelompok penari Oksang   dari pihak tuan rumah dan tamu  sambil berpegangan tangan bersatu padu berdansa ke depan  dan ke  belakang secara bergantian. Makna lagu tersebut adalah  persatuan dan kesatuan antara pihak tuan rumah yang menyelenggarakan pesta dansa Oksang  dan pihak tamu undangan. Lagu ini menegaskan pentingnya merajut persatuan dan kesatuan antara sesama manusia tanpa perbedaan.</item>
+        <item>Diken aorkon adalah rotan kecil yang tumbuh di daerah pegunungan. Bila orang memotong tali tersebut pakai gigi rasanya akan pedas dan mengalami kepanasan dalam tubuh. Lagu tersebut artinya orang yang bersemangat dan tidak bisa menahan gairah berdansa bagai orang yang makan diken aorkon tidak bisa menahan rasa pedas dan kepanasan. Ketika menyanyikan lagu ini semangat para penari semakin membara. Hal tersebut menunjukkan mereka adalah pemilik negri Aplim. Mereka  bangga dan cinta terhadap  alam dan manusia Aplim.</item>
+        <item>Dalam lirik lagu tersebut, batu (Ap) Lim  melambangkan komunitas adat basen dan  batu Apom melambangkan  komunitas adat tukon atau kadang Aplim direpresentasikan sebagai laki-laki/ Ayah dan Apom sebagai perempuan/Ibu. Menyusun batu-batu gunung Aplim dan Apom melambangkan merajut kekeluargaan dan kebersamaan. Jika sudah merajutnya maka bersama-sama berjuang untuk mewujudkan kedamaian, kemakmuran dan kesejahteraan bersama.</item>
+        <item>Lim sarar bakon adalah suatu tempat di  Aplim yang dipercaya memiliki kekayaan alam melimpah dan Apom sarar bakon adalah suatu tempat di Apom yang memiliki kekayaan melimpah. Tempat ini yang menurut masyarakat setempat  disebut Taman Eden-nya manusia Aplim Apom. Dalam lagu tersebut mengatakan jika seandainya saya memiliki  Lim sarar bakon dan Apom sarar bakon, dalam arti memiliki kekayaan yang melimpah maka akan bagikan kepada orang lain yang membutuhkan bantuan.  Makna lagu tersebut adalah niat untuk berbagi kepada sesama. Jika kita memiliki kelebihan harta kekayaan material maupun materi hendaklah berbagi kepada mereka yang berkekurangan.</item>
+        <item>Lagu ini sering dinyanyikan setelah prosesi rias adat selesai dan siap untuk berdansa. Lagu tersebut dinyanyikan sebagai tanda bahwa kami sudah siap, sudah gagah, sudah dikuduskan dan sudah bersatu atas dasar Aplim Apom. Lagu tersebut sering dinyanyikan dengan penuh percaya diri dan  bersemangat   sebagai tanda Aplim Apom sedang bergema. Dengan harapan ketika mereka  bersatu dan berdansa  Maha Pencipta dan leluhur senantiasa ada dalam hidup mereka dengan memberikan kehidupan yang adil, damai, makmur dan sejahtera.  Makna lagu tersebut menegaskan apabila semua orang sudah bersatu sebagai satu keluarga  dan saling bekerja sama pasti  akan mendatangkan keberhasilan hidup.  Dengan demikian, Aplim Apom akan senantiasa bergema, orang akan mendengar dan merasakan  segala suka cita hidup yang penuh damai, hidup yang adil, hidup yang makmur dan hidup yang sejahtera.</item>
+        <item>Makna tali dalam lirik lagu tersebut melambangkan orang-orang Aplim dan Apom berpegangan tangan sambung menyambung antara satu dengan yang lain. Sambil menari masing-masing akan membagi area dan memberikan ruang kepada masing-masing kelompok untuk menari ke bagian depan  ke belakang secara bergantian. Makna lagu tersebut adalah  merajut semangat kekeluargaan, saling berbagi, saling memberi dukungan, saling memberi ruang untuk berekpresi.</item>
+        <item>Setunong adalah suatu jenis tali yang dianggap sakral. Dalam lagu tersebut analoginya membuat rumah adat, rumah tinggal, bangunan Oksang, pagar kampung dan peralatan hidup dianyam menggunakan bahan tali. Ketika sampai diujung suatu anyaman  biasanya  ujung talinya disamarkan supaya tidak diketahui atau tidak mudah untuk dibuka orang lain. Sengaja disamarkan karena ujung tali dianggap penting atau bersifat rahasia, sebab apabila terbuka pasti semua bagian anyaman akan terbuka. Lirik lagu ini  menggambarkan pentingnya menyembunyikan hal-hal yang bersifat sakral atau rahasia, seperti upacara-upacara sakral, mantra-mantra, rahasia suami stri, rahasia sahabat, dan sebagainya. Apabila rahasia-rahasia tersebut terbongkar pasti akan menghancurkan harkat, martabat dan kewibawaan orang atau kelompok. Untuk itu, lagu tersebut menegaskan sesuatu yang dianggap sakral atau rahasia seyogyanya  dijaga baik-baik.</item>
+        <item>Dalam  lirik lagu tersebut, irirok bakon  artinya daerah yang subur dan berkelimpahan. Lagu tersebut mengatakan kita semua berada di daerah yang berkelimpahan, maka marilah kita makan bersama-sama atau saling berbagai makanan. Makna secara luas adalah saling berbagi kelebihan kepada mereka yang berkurangan, baik berupa benda maupun non-benda. Misalnya dalam organisasi pemerintahan atau perusahaan seyogyanya berbagi pekerjaan atau memberi ruang kepada orang  berkarya agar sama-sama menikmati hidup yang  adil, makmur dan sejahtera.</item>
+        <item>Lagu tersebut berupa anjuran agar perempuan Okbon  menikah dengan orang Tenam dan sebaliknya perempuan Tenam menikah dengan orang  Okbon, sebab orang-orang yang sekampung biasanya memiliki hubungan kekerabatan yang dekat antara satu dengan yang lainnya.  Oleh karena itu, dianjurkan agar menikahlah dengan orang di luar kampungnya yang tidak memiliki hubungan kekerabatan supaya sekaligus membangun relasi kekerabatan yang baru.  Makna lagu tersebut sesungguhnya adalah larangan untuk menikah dengan  keluarga sedarah, semarga atau memiliki hubungan dekat melalui garis keturunan ayah maupun ibu.   Masyarakat Ngalum Ok percaya, orang yang menikah dengan yang semarga, sedarah atau keluarga dekat akan mendapat kutukan leluhur sehingga tidak mendapatkan keturunan yang baik.</item>
+        <item>Lirik lagu tersebut menggambarkan kecintaan terhadap air terjun Okbon dan Bonali yang indah dan mempesona tak henti-hentinya mengalir deras memantul  dinding-dingding tebing dan batu-batu membuat orang selalu  tertarik untuk memandangnya.  Makna dari lagu ini  adalah kerinduan akan hidup yang harmonis antara sesama.  Seyogyanya antar sesama senantiasa membangun cinta kasih bagai air terjun yang mengalir deras menyuguhkan keindahkan alam yang mempesona. Apabila setiap orang saling mencintai, hidup ini akan menjadi indah dan orang-orang akan merasakan kebahagiaan. Sebagaimana dalam lirik lagu tersebut menggambarkan kasih sayang dan persaudaraan antara orang-orang Bon dan Bonali yang terjalin dengan baik sejak turun-temurun.</item>
+        <item>Lirik lagu tersebut menggambarkan orang yang mencuri tali dan kayu buah dari dusun milik orang lain. Makna lirik lagu tersebut adalah larangan  mengambil hak orang lain tanpa izin.  Adat Aplim Apom pada umumnya secara tegas melarang  perbuatan  mengambil hak orang lain tanpa izin, seperti perbuatan mencuri, berzinah dan korupsi. Lagu ini berpesan kepada kita agar senantiasa menghargai  hak-hak orang lain  dan sekaligus berkewajiban menjaga ketertiban dan kedamaian bersama.</item>
+        <item>Lagu ini menggambarkan kewaspadaan terhadap musuh dalam suatu perjalanan ke daerah yang jauh. Sebelum pergi anak-anak kecil harus diberi minum ASI secukupnya agar tidak menangis di tengah jalan, supaya orang-orang jahat yang berjaga-jaga di tengah jalan tidak membahayakan nyawa mereka. Lagu tersebut berisi multi-makna, tergantung pemaknaan dari berbagai dimensi, misalnya dalam bidang pendidikan jika orang tua tidak mendidik dan mengajarkan anak-anaknya dengan baik sejak dini pasti suatu saat dalam perjalanan hidupnya akan menghadapi banyak masalah, masa depannya bisa terputus di tengah jalan atau tidak menggapai cita-citanya. Oleh karena itu, lagu ini  berpesan kepada orang tua agar senantiasa mendidik, mengajarkan, mengarahkan dan melindungi anak-anaknya dengan sungguh-sungguh agar dalam perjalanan hidupnya tidak mengalami hambatan atau musibah yang dapat memutus cita-cita hidupnya.</item>
+        <item>Lagu ini menggambarkan kecintaan dan kerinduan terhadap kampung halaman beserta segala kekayaan alamnya. Ketika mendengar kicauan burung-burung selalu terhibur dan menyentuh hatinya. Alam yang kaya dan indah dengan kecauan burungnya selalu memberi hiburan, kebahagiaan, inspirasi  dan semangat baru. Oleh karena itu, seyogyanya  kita mencintai alam dengan cara  menjaga dan melestarikannya dengan sungguh-sungguh.</item>
+        <item>Lagu ini menggambarkan seseorang yang sedang bersedih memandang saudarinya yang pergi ke tempat yang jauh. Maknanya adalah kasih sayang terhadap sesama, terutama terhadap sahabat atau kerabat dekat.  Kadang-kadang kita tidak menyadari betapa indahnya kebersamaan dan persahabatan, tetapi pada saat mereka menjauh atau tidak bersama kita pasti akan merasakan pahitnya kesendirian. Oleh karena itu, kita perlu menjaga kebersamaan, saling menyayangi  dan saling membantu, sebab kita tidak bisa hidup tanpa orang lain.</item>
+        <item>Lagu ini menggambarkan orang yang mau pergi ke wilayah Bayo Sumup tetapi  kabut dari atas gunung Bading mulai menutupi seluruh wilayah tersebut sehingga menghambat perjalanannya.  Lagu tersebut menegaskan bahwa dalam perjalanan hidup kita pasti mengalami banyak hambatan dan rintangan, misalnya dalam dunia pendidikan setiap orang pasti mengalami hambatan biaya pendidikan, penyesuaian lingkungan dan  IPTEK, sakit penyakit, dukungan moral yang kurang dari orang tua dan sahabat, dan sebagainya. Oleh karena itu, lagu ini berpesan kepada kita agar siap mental, sabar dan terus berjuang untuk mencapai tujuan yang diimpikan.</item>
+        <item>Nangulsikin adalah sebuah puncak gunung yang membatasi wilayah timur dan barat Tanah Aplim Apom. Dalam lagu ini Mom (paman) menggambarkan masyarakat di sepanjang Okaomtil (Lip-Nangul) dan Tena (Keponakan) menggambarkan masyarakat Okhika, Okteneng, Okbibab dan lain-lain. Dalam lagu tersebut mengatakan bila paman mau pergi ke Nangulsikin maka keponakannya juga harus ikut mendampinginya. Ketika sampai di puncak gunung mendengar bunyi daun-daun pandan melambai-lambai pasti mereka tidak ingin meninggalkannya karena merasakan ketenangan dan kebahagiaan hati. Lagu ini bermakna saling membantu dan mendukung antara satu dengan yang lainnya. Bila ada yang  mengalami persoalan hidup, yang lain mesti membantunya. Dalam sebuah perjuangan hidup saling tolong-menolong harus dilakukan agar bersama-sama mencapai puncaknya, yaitu mencapai puncak kesuksesan bersama, sejahteraan bersama, kedamaian dan keadilan bersama. Namun dalam lagu tersebut menegaskan, bila sudah mencapai puncak janganlah meninggalkannya, seyogyanya tinggalah di puncak gunung tersebut menikmati kebersamaan hidup ibarat menikmati daun pandan yang selalu melambai-lambai membuat orang tidak ingin meninggalnya.</item>
+        <item>Lirik lagu ini menggambarkan orang yang meragukan suara orang menangis. Lagu tersebut bermakna keraguraguan. Kita sering mengalami keraguraguan atas sesuatu hal  sehingga seringkali  kita salah persepsi atau salah mengambil tindakan. Oleh karena itu, lagu tersebut berpesan kepada kita agar seyogyanya berhati-hati dan jelih dalam melihat, mendengarkan, mempersepsikan dan mengambil suatu tindakan.</item>
+        <item>Lagu ini menggambarkan orang yang menghayal untuk menimba air dari sumber mata air di dusunnya. Setiap orang pasti pernah menghayal, misalnya saat  di perantauan menghayal tentang kampung halamannya, yaitu tentang orang tua dan sanak-saudaranya, tentang rumah, tentang makanan, tentang dusun-dusun, tentang tempat berburuh dan sebagainya.  Kecenderungan orang yang menghayal adalah mendambakan sesuatu yang lebih baik dari kondisi dan situasi yang dialami  pada saat menghayal,  misalnya saat orang tidak punya uang sering menghayal punya banyak uang, ketika lapar sering menghayal makan makanan kesukaan dan sebagainya.  Dalam lirik lagu tersebut menghayal tentang menimba air dari sumber mata air. Masyarakat suku Ngalum Ok memandang air sebagai sumber kehidupan, maka air yang dimaksud dalam lirik lagu tersebut adalah air kehidupan yang memberi kekuatan, kemakmuran, kesejahteraan dan kedamaian. Oleh karena itu,  orang bernyanyi mendambakan menimba air hidup yang menyelamatkan hidupnya  di dunia maupun di akhirat. Namun, tidak dipungkiri bahwa untuk memperoleh air kehidupan tersebut seringkali kita diperadapkan dalam suatu pilihan-pilihan hidup, untuk itu dibutuhkan kebijaksanaan untuk  memilih jalan hidup yang menghidupkan.</item>
+        <item>Lagu ini  menggambarkan perempuan-perempuan muda dari Oksilaka berhura-hura sambil menggeser-geser batu kali Oksilaka untuk mencari berudu. Lagu tersebut hanya bersifat bahasa kiasan karena Oksilaka termasuk  kali keramat yang  dilarang mencari berudu.  Makna lirik lagu tersebut adalah larangan melakukan hubungan perzinahan. Dalam hukum adat masyarakat Aplim Apom melarang keras hubungan perzinahan di luar nikah.  Melanggar hukum adat tersebut seringkali menimbulkan  berbagai persoalan yang sangat besar, terjadi pertumpuhan darah bahkan nyawapun menjadi taruhannya. Karena  perempuan memiliki peran yang sangat penting dalam kehidupan masyarakat Aplim Apom, yaitu  menurunkan keturunan,  mengendalikan perekonomian keluarga, menambah relasi kekerabatan, membawa perdamaian, memegang fungsi penting dalam ritual adat dan sebagainya.  Oleh karena itu, budaya suku Ngalum Ok mempunyai sistem nilai yang menjamin perlindungan terhadap harkat dan martabat perempuan.  Salah satu contoh keteraturan hidup untuk menghindari perbuatan perzinahan adalah adanya pemisahan area khusus laki-laki dan area khusus perempuan dalam lingkungan hidupnya, seperti Bokam, yaitu rumah khusus laki-laki remaja dan dewasa, Sukam adalah  rumah khusus perempuan, Aip/abib adalah  rumah keluarga yang di dalamnya dibagi area khusus laki-laki dan perempuan. Pembagian area-area tersebut menunjukkan bahwa masyarakat Aplim Apom umumnya dan khususnya masyarakat suku Ngalum Ok adalah masyarakat yang tertib, teratur dan senantiasa menjaga kewibawaan dan martabat.</item>
+        <item>Lirik lagu ini menggambarkan orang yang merindukan  saudaranya yang pergi  meninggalkan bekas kakinya di batu-batu. Makna lagu tersebut adalah orang yang pergi  selalu meninggalkan berbagai macam kenangan, seperti orang yang meninggal pasti meninggalkan berbagai macam kenangan baik bersama keluarga dan sanak saudaranya. Contoh dalam konteks saat ini, ketika seseorang tamat pendidikan dari  perantauan selalu meninggalkan bermacam kenangan suka dan duka bersama teman-teman dan dengan para guru atau dosen. Ketika menyelesaikan masa jabatan publik selalu meninggalkan kesan baik ataupun buruk bagi rekan kerja, pegawai dan masyarakat.  Untuk itu, lagu ini sering dinyanyikan sebagai ungkapan kerinduan terhadap temannya yang pergi meninggalkan berbagai kenangan baik bersamanya. Pesan penting yang ditarik dari lagu tersebut adalah apabila kita berbuat baik terhadap sesama pasti akan meninggalkan kenangan atau kesan yang baik bagi orang lain.</item>
+        <item>Lirik lagu tersebut menggambarkan gadis-gadis yang  sudah umur kawin. Api menyala artinya gadis-gadis sudah masa umur kawin.  Api menyala dipadamkan dengan bitipok (lumut basah) artinya gadis-gadis dikawinkan. Lirik lagu tersebut menegaskan bahwa gadis-gadis harus dikawinkan pada masa  umur yang sudah siap secara biologis, mental dan menguasai keterampilan hidup seperti memasak, berkebun, beternak, bisa membuat noken dan lain-lain. Lagu tersebut berpesan kepada kita agar  tidak menikah atau menikahkan orang yang di  bawah umur atau belum siap secara mental dan keterampilan hidup.</item>
+        <item>Lagu ini mengisahkan tentang dua orang yang saling tawar menawar, salah satu orang menyuruh temannya berdiri di atas batu kali Okbape untuk melihat tubuhnya dan sebaliknya temannya menyuruh berdiri di atas batu kali Okyamil.  Makna lirik lagu tersebut adalah sikap  egois . Sikap tersebut ada pada setiap orang, yaitu maunya selalu menang dan tidak mau kalah atau  maunya selalu memerintahkan orang lain dan tidak mau diperintahkan. Akibat dari sifat egois tersebut seringkali mengakibatkan konflik internal bahkan menjadi konflik kelompok. Oleh karena itu, budaya masyarakat Aplim Apom, khususnya suku Ngalum Ok mengajarkan nilai-nilai saling menghargai dan sopan-santun terhadap sesama.</item>
+        <item>Lagu ini mengisahkan tentang dua orang bersaudara, yaitu laki-laki dan perempuan. Mereka   saling tawar-menawar untuk pergi ke kampung yang jauh melewati gunung Apmasim. Laki-laki mengajak pergi malam hari tetapi perempuan menolaknya dengan alasan yang menakut-nakutinya mengatakan Apmasim adalah tempat pemakaman jenazah di atas pohon sehingga sebaiknya kita pergi siang hari, dan bila kita pergi  malam hari orang akan curiga kita suami-stri. Oleh karena itu, sebaiknya kita pergi siang hari  supaya semua  orang tahu kita ini bersaudara. Lagu tersebut intinya berpesan kepada kita agar berhati-hati berduaan lawan jenis dengan saudara/i kandung atau sepupuh, terutama pada malam hari agar tidak tergoda melakukan hubungan zinah yang dapat merusak tatanan adat dan mendapat kutukan dari para leluhur. Adat suku Ngalum Ok sangat melarang berhubungan zinah antar saudara/i kandung, sepupuh ayah dan ibu, semarga dan marga tertentu yang di tabuhkan. Sebab apabila dilakukan akan mendapat kutukan dari  leluhur sehingga keturunannya tidak sehat secara fisik maupun mentalnya.</item>
+        <item>Lagu tersebut mengisahkan tentang sahabatnya  yang berjalan turun tanjakan gunung Waa menuju  kali Oksop dari arah Okbibab. Dalam lagu tersebut mengatakan orang yang berjalan turun itu seperti  sahabat saya Kaberim (sebutan persahabatan untuk dua laki-laki yang kawin  dengan dua perempuan yang sekandung) tetapi saya masih meragukannya. Lagu ini menggambarkan hubungan kekerabatan antara masyarakat Oksop dengan masyarakat Okbibab yang terjalin sejak lama melalui proses perkawinan silang. Dengan perkawinan silang tersebut memperkokoh hubungan kekerabatannya. Oleh karena itu, dalam kehidupan sosialnya, seperti perdagangan, dukungan ekonomi, dukungan perang, dukungan penyelenggaraan ritual-ritual adat dan sebagainya terus dilakukan sejak dulu hingga sekarang.  Lagu tersebut menegaskan perkawinan silang antar wilayah atau antar kampung dapat memberikan manfaat sosial dan ekonomi.</item>
+        <item>Lagu tersebut menggambarkan orang-orang yang merindukan kampung halamannya Sibil Beta Abib. Mereka memandangnya dari jauh terlihat pehonanan yang memagari rumah adat melambai-lambai tertuap angin. Oleh karena itu,  orang bertanya, apakah anda melihatnya sambil menangis?.   Makna lagu tersebut tentang kesungguhan dalam  mencintai  tanah air, tanah tumpah darah atau kampung halamannya dengan sungguh-sungguh. Kecintaan atau kerinduan terhadap daerah asal pasti dialami oleh setiap orang. Namun dalam lirik lagu tersebut menanyakan apakah anda  menangis sambil melihatnya, artinya adalah apakah anda sunguh-sungguh mencintai daerah asalmu?. Pertanyaan ini bersifat reflektif bagi semua orang yang senantiasa mencintai daerah asalnya. Jika kita mencinta daerah asal dengan sunguh-sungguh maka seyogyanya kita bertanggungjawab menjaga kedamaian, ketenteraman dan  kelestarian lingkungan alam dan manusianya.</item>
+        <item>Lagu ini mengisahkan tentang seorang laki-laki yang bekerja dengan beban yang berat bagai gunung yang menjulang tinggi sehingga meminta bantuan perempuan Bukamding untuk melayani makanan, minuman dan rokok.  Dalam lagu tersebut, gunung menjulang tinggi artinya beban kerja yang semakin banyak atau kedatangan banyak tamu sehingga Ia meminta perempuan untuk melayani mereka. Dalam budaya suku Ngalum Ok, biasanya ada pembagian tugas dan tanggungjawab antara laki-laki dan perempuan. Tugas utama laki-laki adalah membuka kebun, berburuh, membuat pagar, membangun rumah, membangun gedung tarian Oksang, menerima tamu, dan lain-lain. Sedangkan tugas utama perempuan adalah melayani makan dan minum, memberi makan ternak, mengambil bahan makanan di kebun, mengurus anak dan sebagainya.  Dengan demikian,  seluruh beban kehidupan sosial dan ekonominya menjadi lebih mudah. Makna lagu tersebut menegaskan pentingnya pemerataan tugas dan tanggungjawab secara proporsional antara laki-laki dan perempuan agar tidak mengorbankan satu pihak.</item>
+        <item>Lirik lagu tersebut mengisahkan tentang seorang laki-laki  yang kena marah karena memegang tubuh seorang gadis.  Gadis itu mengejeknya dengan mengatakan anda gatal seperti orang yang kena duri pohon ubop. Makna lagu tersebut  intinya tentang laki-laki yang sering kawin paksa dengan cara mengancam. Perkawinan dengan cara ancaman atau keterpaksaan  seringkali keluarganya tidak  bahagia. Oleh karena itu, dalam pandangan masyarakat adat suku Ngalum Ok membangun keluarga baru yang ideal adalah kedua belah pihak saling menerima dengan sepenuh hati tanpa ada paksaan dari pihak manapun agar kelaknya mereka bersama-sama membangun keluarga bahagia.</item>
+        <item>Dalam lagu tersebut menanyakan kepunyaan atas hak ulayat di wilayah antara Kolbung dan Marapbung kepada anak/keponakannya. Pertanyaan  tersebut bukan tanpa asalan, sebab budaya suku-suku di Papua, khusus masyarakat Aplim Apom dianjurkan untuk harus mengetahui kepemilikan tanah ulayat, asal usul keturunan dan kepemilikan Iwol (rumah adat), supaya dikemudian hari mereka tidak mengambil hasil hutan atau berkebun di hak ulayat milik orang lain dan mereka dapat bersosialisasi dengan sesama dan melaksanakan upacara adat sesuai dengan norma-norma adat yang diwariskan para leluhur. Hal tersebut untuk menghindari saling mengklaim atau mencuri hak milik orang lain  yang dapat menimbulkan berbagai konflik.  Selain itu, jika tidak mengetahui silsilah keturunan tentu akan melanggar aturan-aturan dalam perkawinan dan upacara adat.  Oleh karena itu, lagu tersebut menegaskan pentingnya mengetahui hak ulayat, silsilah keturunan dan memahami aturan-aturan adatnya.</item>
+        <item>Lagu ini mengisahkan tentang  orang yang kekurangan bekal di tengah perjalanan, sehingga mereka memanggil  sesama yang lain untuk meminta bantuan  makanan tetapi tidak ada yang respon. Lagu tersebut menggambarkan orang-orang yang bepergian ke suatu tempat yang jauh tanpa persiapan bekal yang cukup sehingga mengalami kelaparan. Sama halnya dalam dunia pendidikan, orang yang mengenyam pendidikan tinggi tanpa punya bekal ilmu kuat seringkali mengalami banyak kesulitan. Contoh lainnya adalah  orang yang diangkat  menjadi pimpinan dalam suatu organisasi jika tanpa memiliki bekal pengalaman yang cukup pasti akan  mengalami banyak kesulitan. Oleh karena itu, lagu ini menegaskan pentingnya menyiapkan bekal  yang cukup sesuai dengan bidang kehidupan kita agar kelaknya tidak mengalami kesulitan dan hambatan-hambatan. Selain itu,  lagu tersebut menegaskan pentingnya sikap peduli terhadap orang yang membutuhkan bantuan dan bersikap  responsif terhadap segala persoalan di lingkungan sekitar.</item>
+        <item>Lirik lagu tersebut mengisahkan tentang orang yang diperlakukan tidak adil oleh rombongan Bakbulungkon, yang mana  rombongannya menyiapkan bekal dan membagi-bagikannya diantara mereka sendiri dan dengan sengaja melupakan salah satu orang yang selalu hidup bersama mereka.  Walaupun diperlakukan tidak adil, berbekal sisa-sisa makanan Ia pergi melewati puncak gunung Sopbinisikin.  Lagu tersebut menggambarkan ketidakadilan dan ketidakpedulian  yang ditunjukkan oleh seorang pemimpin, dimana semua orang mendapatkan makanan yang baik dan cukup, sementara satu orang hanya mendapat sisa-sisa makanan. Ketidakadilan dan   ketidakpedulian seorang pimpinan seperti dalam lagu tersebut sering terjadi dalam kehidupan masa kini, kadang-kadang para pemimpin membagi kekuasaan, mengambil suatu kebijakan atau membagi anggaran hanya kepada kelompok tertentu, sementara kelompok yang lain tidak mendapatkan hak-haknya. Oleh karena itu, lagu tersebut menegaskan pentingnya  bersikap bijak dan adil dalam hal apapun dan kepada siapapun.</item>
+        <item> Kor Isomkor adalah istilah untuk menyebut perempuan yang berwibawa dalam suatu komunitas adat, dalam arti  yang lebih luas bisa disebut sebagai ibu bangsa. Aplim angol atenok adalah sebuah gunung milik marga Sasaka yang sering mengeluarkan asap. Masyarakat setempat memaknainya sebagai asap dari api kehidupan. Menurut mitos gunung tersebut termasuk salah satu bagian penting dari mitos gunung Aplim atau simbol marga Basen.  Lagu ini mengisahkan tentang harapan kepada Kor Isomkor agar memberikan makan  kepada semua orang  supaya pergi ke gunung Atenok dengan keadaan yang tidak lapar. Makna memberi makan kepada semua orang artinya adalah memampuhkan mereka, memberdayakan mereka, mempersiapkan mereka agar mereka  bisa  pergi hingga mencapai puncak yang lebih tinggi, yaitu puncak yang aman dan damai, puncak yang makmur, puncak yang sejahtera dan puncak yang adil. Bukan sebaliknya pergi dalam keadaan yang lapar,  artinya dalam keadaan bodoh, dalam keadaan miskin dan dalam keadaan konflik  sehingga pada akhirnya tidak mencapai puncak yang didambakan.</item>
+        <item>Lagu tersebut  mengisahkan tentang dua perempuan yang saling memuji karena sama-sama suka. Hal tersebut menunjukkan bahwa suka sesama jenis sudah ada sejak lama. Namun adat suku Ngalum Ok melarang hubungan percintaan sesama jenis. Tentu dengan beberapa alasan, yaitu mereka tidak bisa mendapatkan pernikahan secara adat Iwol, tidak mendapatkan hak akses atas tanah dan hutan, tidak bisa memiliki rumah Aip/Abib sendiri dalam lingkungan sekitar, tidak akan menurunkan keturunan dan dipercaya mendapat kutukan leluhur. Oleh karena itu, hubungan percintaan sesama jenis sangat ditabuhkan dalam budaya suku Ngalum Ok.</item>
+        <item>Dalam acara dansa para penari membentuk kelompok-kelompok kecil yang terpisah-pisah tetapi pada saat berdansa mereka selalu sambung-menyambung. Sebagaimana dalam lagu tersebut mengajak kelompok yang lain untuk menari sambil sambung-menyambung sebagai tanda persatuan dan kesatuan.  Makna lagu tersebut adalah mengajak semua orang untuk senantiasa bersatu dan saling bekerja sama agar segala tujuan bersama dapat tercapai. Sebagaimana dalam setiap tarian, untuk menampilkan tarian yang terbaik dan menghibur maka kekompakan menjadi kunci utamanya. Lagu ini bisa dimaknai multidimensi, misalnya dalam bidang pendidikan, semua stakelhoder pendidikan yang terdiri dari  orang tua, guru, pemerintah, tokoh adat, agama dan sebagainya seyogyanya bersatu dan saling bekerja sama untuk mewujudkan sumber daya manusia yang berkualitas dan berkarakter. Demikian pula dengan bidang-bidang lainnya tentu membutuhkan persatuan dan kerja sama untuk mencapai tujuan yang diharapkan.</item>
+        <item>Lagu tersebut menggambarkan anak laki-laki yang dipisahkan dengan ibunya untuk diikutkan dalam pendidikan inisiasi adat di Bokam Iwol  (rumah khusus laki-laki). Lagu tersebut berupa pertanyaan kepada anak laki-laki, apakah anda mau hidup hanya dengan ibumu atau mau ikut pendidikan pendewasaan?, apakah anda mau menjadi orang biasa atau mau menjadi orang luar biasa?. Jika mau menjadi orang luar biasa maka ikutilah nasehat dan didikan orang tuamu di Bokam Iwol (rumah adat). Artinya diikutkan dalam pendidikan inisiasi adat agar menjadi pribadi yang dewasa secara mental, intelektual dan spiritual.  Lagu tersebut mengajak kita agar keluar dari zona nyaman atau  zona kehidupan biasa-biasa dan senantiasa terlibat dalam lingkungan pendidikan yang kompetitif, yang benar-benar bisa membentuk intelektualitas dan kepribadian yang berkarakter. Namun, seringkali kita mencari zona nyaman dengan mencari sekolah, kampus dan jurusan yang menurut kita gampang atau bisa cepat selesai.  Mental-mental cepat atau instan seperti ini yang sesungguhnya tidak bisa  membentuk intelektualitas dan kepribadian yang benar-benar matang. Oleh karena itu, lagu ini menegaskan bahwa untuk menjadi pribadi yang memiliki karakter dan berintelektual maka harus bertumbuh dan berkembang dalam dunia pendidikan yang kompetitif dan menantang dengan sabar, berdisiplin, rajin belajar  dan memiliki daya juang tinggi.</item>
+        <item>Lagu ini menggambarkan  prosesi pendidikan inisiasi adat.  Biasanya setelah pendidikan dilaksanakan secara tertutup di rumah khusus laki-laki atau di tengah hutan selama berminggu-minggu, pada hari terakhir mereka tunjukan kepada masyarakat umum, khususnya kepada kaum perempuan agar melihat anak-anak laki-laki yang sudah didewasakan dalam pendidikan inisiasi adat.  Prosesi tersebut sebagai tanda bahwa dengan pendidikan inisiasi adat telah mengorbitkan generasi-generasi muda yang berintelektual, bermoral, beretika dan mandiri. Generasi yang akan siap melanjutkan warisan orang tua dan membawa perubahan kehidupan ekonomi, sosial, politik dan memperkokoh tatanan adat dalam lingkup keluarga dan komunitasnya. Oleh karena itu, lagu tersebut dinyayikan sebagai ungkapan  penyambutan generasi baru dengan suka cita dan dengan penuh  optimisme akan kehidupan yang lebih baik. Makna lagu ini intinya tentang peran pendidikan dalam mengorbitkan sumber daya manusia berkualitas yang siap berkontribusi dalam proses pembangunan. Mereka yang sudah dipersiapkan tersebut hendaknya mendukung mereka agar benar-benar memberikan kontribusi nyata dalam membangun keluarga dan bangsanya. Bukan sebaliknya kita membiarkan atau menutup rapat segala peluang kerja  generasi muda berkualitas yang sudah siap untuk berkarya bagi daerah atau bangsanya.</item>
+        <item>Lagu ini mengisahkan tentang mitos pohon kekayaan yang terdapat Sop sulbung (pohon kekayaan. Terdapat juga di wilayah Markom). Pada saat-saat tertentu air terjun sop sulbung bunyinya menderu-deru seperti ada orang yang menutup dan membuka kembali jalur air. Menurut mitos masyarakat setempat, bunyi  air tersebut adalah eksistensi pohon kehidupan. Dalam acara dansa Oksang, masyarakat  percaya ketika  menyanyikan lagu tersebut   akan mendatangkan kekayaan yang terdapat dalam pohon kehidupan, terutama siwol (uang tradisional). Pada saat menyanyikan lagu tersebut, orang-orang tertentu yang menguasai ilmu gaib tentang kekayaan akan mengumpulkan siwol-siwol yang melayang-layang di atas para penari. Siwol yang dikumpulkan tersebut akan diikat dan dibagikan kepada semua orang.  Makna dari lagu ini adalah semua kekayaan yang mendatangkan  uang  sudah tersedia di alam, seperti kekayaan atas sumber daya mineral, kekayaan hasil hutan, kekayaaan atas air/sungai, kekayaan budaya dan sebagainya. Untuk itu, dibutuhkan penguasaan  ilmu pengetahuan dan kerjasama yang baik oleh semua pihak agar memperoleh berbagai manfaat dari kekayaan sumber daya alam yang kita miliki.  Namun segala manfaat yang diperoleh hendaknya berbuat adil untuk kemakmuran dan kesejahteraan bersama.</item>
+        <item>Lagu tersebut mengisahkan tentang orang yang melewati puncak gunung Dopsibi dan pergi ke tempat yang jauh. Ketika balik memandang gunung tersebut tampak sudah tertutup awan dan hujan. Oleh karena itu, Ia mengatakan saya sudah melewati puncak gunung tersebut sehingga tidak menjadi persoalan.  Lagu tersebut bermakna ungkapan rasa syukur atas  keselamatan dari suatu masalah atau persoalan hidup, misalnya selamat dari musibah bencana alam,  dari konflik pribadi atau sosial, dari beban ekonomi, dan sebagainya.</item>
+        <item>Lagu ini mengisahkan tentang orang yang pergi ke suatu puncak gunung, dimana dari gunung tersebut bisa melihat pemandangan dusun-dusun dan perkampungan  di berbagai arah, baik dari depan maupun belakang atau dari  samping-samping. Ketika  cuaca cerah dan mendengar bunyi-bunyian daun pandan melambai-lambai orang tersebut  merindukan  kampung halamannya di dataran rendah.  Makna dalam lirik lagu tersebut adalah ketika kita sudah mencapai suatu kesuksesan atau berada pada posisi yang lebih tinggi janganlah kita melupakan orang-orang yang di bawah. Hendaknya kita kembali hidup bersama dengan mereka yang di bawah, saling berbagi suka dan duka bersama-sama.</item>
+        <item>Lagu tersebut diciptakan untuk sahabat alam (penunggu hutan) yang sering meninggalkan bekas kaki di sekitar pegunungan Epil Nangol.  Bekas kaki tersebut sebagai tanda akan eksistensi sahabat alam yang senantiasa ada untuk melindungi hutan dan untuk menolong manusia.  Masyarakat setempat menyebut nelakon  (sahabat) karena sering bersahabat dengan manusia. Masyarakat percaya sahabat alam sering menolong manusia, misalnya memberikan cuaca yang baik, memberikan petunjuk jalan, menyelamatkan manusia dari musibah, misalnya jatuh dari  pohon atau tebing dan sebagainya.  Lagu tersebut menegaskan pentingnya menjalin hubungan yang baik dengan alam dengan cara tidak melanggar aturan-aturan adat, misalnya tidak mengakses tempat keramat yang dipercaya tempat tinggal sahabat alam, tidak melakukan perbuatan immoral, tidak menebang pohon sembarangan, tidak ribut dan sebagainya.  Dengan cara melakukan hal-hal yang baik akan mempererat  hubungan  baik antara manusia dengan para sahabat alam.</item>
+        <item>Lagu tersebut mengisahkan tentang orang yang pergi ke suatu daerah di dataran rendah yang sungainya berliku-liku dan pepohonan kulem melambai-lambai sehingga  Ia  terpesona dan merasa kagum dengan keindahan dan kekayaan alamnya. Oleh karena itu, Ia mengatakan  saya  tidak bisa menggantikan pohon kulem di dataran rendah menjadi pohon bulip. Sebab segala kekayaan alam yang terdapat di wilayah dataran tinggi berbeda dengan yang ada di dataran rendah dan masing-masing punya kelebihan dan kekurangannya. Lagu tersebut sekaligus menggambarkan talenta/potensi dan karakter  masing-masing manusia berbeda-beda dengan kelebihan dan kekurangannya. Oleh karena itu, dalam lirik lagu ini menegaskan pentingnya saling melengkapi kekurangan  atau berbagai kelebihan dalam  kehidupan sosial, ekonomi dan politik.  Sebab tanpa sikap saling mengisi kekurangan dan berbagi kelebihan, hidup ini akan semakin sulit dan akan menimbulkan berbagai permasalahan hanya karena perbedaan.  Untuk itu, seyogyanya setiap orang saling mengakui kelemahan  dirinya, mengakui kelebihan orang lain dan senantiasa saling mengisi kekurangan atau berbagi kelebihannya.</item>
+        <item>Lagu tersebut mengisahkan tentang orang yang merasa bersyukur karena berhasil mencapai   tempat minum air (Okenebor) dan tempat mengambil kayu (apakandon).  Okenebor dimaknai  sebagai suatu posisi atau tempat yang akan menghilangkan dahaga permasalahan hidupnya, yang akan memberikan kesegaran dan kejernian hidupnya menjadi lebih baik dari yang sebelumnya.  Sedangkan apakandon artinya tempat mengambil kayu untuk kebutuhan sehari-hari, seperti untuk membangun rumah, untuk kayu bakar, untuk buat pagar, untuk membuat kandang dan sebagainya. Apakandon dimaknai sebagai suatu posisi atau tempat yang akan mencukupi kebutuhan sehari-sehari.  Namun ketika sudah berada pada posisi atau tempat yang menguntungkan hidupnya seyogyanya dijaga dengan baik agar senantiasa memberikan kehidupan yang jernih,  sejuk dan menyuburkan.</item>
+        <item>Lagu ini mengisahkan tentang seorang laki-laki yang turun dari kampung seberang. Sesampai di lembah  muara kali Oksop dan Okse, ternyata sahabatnya yang dicari tidak ketemu, akhirnya Ia menangis sambil gelang-gelang kepala. Dalam lagu tersebut, seorang sahabat yang tidak ditemukan dilambangkan seperti Siwayurimbir (burung nuri hitam) yang indah dan kicauan suaranya selalu menggugah hati  banyak orang. Makna lagu tersebut adalah kasih sayang terhadap sesama, terutama terhadap kerabat atau sahabatnya. Persahabatan jika terjalin dengan baik, maka semuanya akan menjadi indah bagaikan  bulu burung nuri hitam dan senantiasa tumbuh dalam hati setiap orang bagai suara burung nuri yang selalu menggugah hati  banyak orang.</item>
+        <item>Lagu ini mengisahkan tentang gelap dan terang. Kosokor  melambangkan gelap (malam) dan Kaletkor melambangkan terang (siang).  Lagu tersebut mengisahkan tentang dua perempuan yang berupaya untuk menciptakan dua situasi yang berbeda, yaitu kosokor berupaya untuk menciptakan gelap dan sebaliknya kaletkor berupaya untuk menciptakan terang.  Lagu ini sering dinyanyikan pada saat subuh sebagai lagu pengantar untuk menjemput terang. Makna dari lagu ini adalah dalam kehidupan kita sering dihadapkan pada dua pilihan hidup yang berlawanan seperti dalam lirik lagu tersebut yaitu terang dan gelap. Dalam hal lain, yaitu  baik dan buruk, bodoh dan pintar,  positif dan negatif,  benar dan salah, sakit dan sehat dan sebagainya. Masing-masing pilihan tentu  punya dampaknya, misalnya jika kita tidak pernah belajar maka kita memilih untuk menjadi bodoh atau sebaliknya jika kita belajar maka kita memilih untuk menjadi pintar,  jika kita mengkonsumsi miras dan narkoba maka kita  memilih untuk sakit dan sebaliknya jika kita tidak mengkonsumsinya maka kita memilih untuk hidup sehat,  dan sebagainya. Semua sebab negatif dan positif  tersebut terjadi akibat dari pilihan hidup masing-masing pribadi. Oleh karena itu, seyogyanya bijak dalam menentukan pilihan-pilihan hidupnya.</item>
+        <item>Lirik lagu ini mengisahkan tentang seorang laki-laki dan perempuan membagi wilayah beserta sumber daya alamnya berdasarkan batas air terjun, yaitu laki-laki mendapatkan wilayah bagian atas air terjun dan perempuan mendapatkan wilayah bagian bawah air terjun.  Lagu tersebut menegaskan tentang pentingnya keadilan dan pemerataan  dalam pembagian kekuasaan antara perempuan dan laki-laki. Seyogyanya perempuan dan laki-laki mendapatkan porsi  yang sama dalam hal apapun, misalnya pembagian hak dan kewajiban dalam urusan  keluarga, dalam bidang pemerintahan, dalam bidang politik, dalam bidang sosial, dalam bidang keagamaan, budaya dan sebagainya. Sebagaimana diajarkan dalam lagu tersebut, yaitu keadilan dan pemerataan dalam segala bidang kehidupan.</item>
+        <item>Abidirumkor artinya ibu langit/angkasa dan mangoldirumkor artinya ibu bumi. Lagu tersebut merupakan lagu terakhir dari leluhur pencipta pantun lagu. Setelah menyanyikan lagu ini leluhur menghembuskan nafas terakhir.  Lagu ini mengisahkan tentang harapan akan terwujudnya kehidupan di dunia yang lebih adil, makmur, sejahtera dan damai.  Dalam lagu tersebut leluhur pencipta pantun menyatakan agar segala sesuatu yang sudah dijanjikan Maha Pencipta, yaitu kehidupan yang tidak berkesusahan, kehidupan yang damai dan kehidupan yang sehat senantiasa terwujud dalam setiap kehidupan manusia.</item>
+    </string-array>
+
+    <string-array name="title2">
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+        <item>Bape Pup</item>
+    </string-array>
+
+    <string-array name="description2">
+        <item>Yepmino kakaya yepmino, sitom kayanga nongdon adon nipo, nesila so uperikao.</item>
+        <item>Ne sanip mongkorim nong piri piria diep, a piri-piria diep. </item>
+        <item>Bingirkop Bangorkop mansirik donaro, sibilbilum ta buro unoro.
+            Okmup okyaki ta mansirik donaro, sibil bilum tan buro unoro.</item>
+        <item>Abiurunip taloronipo, kopka urip taluko, Apoma dingben taloro, Apoma taopben taloronipo, kopka urip taluko. </item>
+        <item>Kapa nelakon kuro (kio), Apoma digben  unep edo, Apoma taopben unep edo  nekal bali unep yomteka pupuma unepo serikayo.</item>
+        <item>Apom kota anona wine ngalbalne nipo, sup mabila nesil so uperikao. </item>
+        <item>Sii a ngilinipo, baser ngilinipo, kaya dintamon.</item>
+        <item>Siia ngilinipo, basera ngilipo, kaya dikset kapset enemno ngilipo. </item>
+        <item>Sikaopkon mena kia pakore kumdir parepse yamilki tana mepo doyo serayo. </item>
+        <item>Bilim ningil kio, samol ningil kio, kayopnen taliko depen dakayo.</item>
+        <item>Labupserediro, laparepserediro, si wayur oktepmina/ si wayur kupkuptepmina.</item>
+        <item>Kapadarkor yakumdarkor kapadikirbin damepo, kaptum ngongo ayuno.</item>
+        <item>Kolkota  apa tamam kota bururio. </item>
+        <item>Min ngol sep ngola ipkelmum seripo, kotererki koto  kotaburipo.</item>
+        <item>Wiwinep ka nganganedokrep ka, mikbin mikaliko lawiwia. </item>
+    </string-array>
+
+    <string-array name="adalah2">
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+    </string-array>
+
+    <string-array name="terjemahan2">
+        <item>Laki-laki itu penting, kuskus sitom dan kayang berjalan dari tali-tali ke pohon-pohon, andai masak untuk maskawin saya.</item>
+        <item>Kasuari kesayanganku, terdengar bunyi tali  dan bunyi kayu yang engkau injak.</item>
+        <item>Saya mencari di Bingirkop dan Bangorkop tetapi tidak dapat, Sibilbilum yang bawah pergi.
+            Saya mencari di Okmu dan Okyaki  tetapi tidak dapat, Sibilbilum yang bawah pergi.</item>
+        <item>Katanya Abiurunip datang, perhatikan Ia  datang, Ia datang melewati bagian atas Apom, katanya datang melewati bagian bawah Apom, perhatikan dia datang.</item>
+        <item>Engkau sahabat sejatiku, apakah engkau pergi melewati bagian atas Apom atau engkau melewati bagian bawah Apom, andai engkau pergi ke tempat yang saya kenal akan saya membayangkannya.</item>
+        <item>Dari bawah tebing gunung Apom suara anjing sedang bergonggong, andai kuskus sup dan mabil dimasak untuk maskawin saya.</item>
+        <item>Burung sii berkicau, burung baser berkicau, mungkin mau ke peraduannya.</item>
+        <item>Burung sii sedang berkicau, burung baser sedang berkicau, mereka berkicau karena mau makan bunga pohon  dikset dan kapset yang sudah mekar.</item>
+        <item>Noken sikaopkon engkau kalungkan di leher, punya yamilki berkata bukan dekat.</item>
+        <item>Anak panah bilim yang bergigi, anak panah samol yang bergigi, mendapat anak panah yang bergigi ganda.</item>
+        <item>Saya masih isi punyamu, saya masih simpan punyamu, bagai bulu-bulu burung nuri.</item>
+        <item>Burung darkor berkicau pemandangan gunung yakum cerah dan indah, angin sepoi-sepoi.</item>
+        <item>Tebing terjal gunung kol, usirlah ke tebing.</item>
+        <item>Potongan kayu min dan sep hanya mereka sendiri miliki, mereka usir ke tebing.</item>
+        <item>Anda memekik dan berhura-hura, segerombolan burung mik saya membunuhnya anda memekik.</item>
+    </string-array>
+
+    <string-array name="makna2">
+        <item>Lagu tersebut mengisahkan tentang seorang perempuan yang tidur di tengah hutan, ketika pada malam hari banyak kuskus pohon lewat di atas tali-tali dan pohon-pohon Ia membayangkan jika ada laki-laki pasti akan membunuh kuskus tersebut untuk dikonsumsi dan sekaligus bisa membayar maskawinnya kepada orang tuanya. Lagu ini dinyanyikan setelah laki-laki yang adalah suaminya berubah wujud menjadi kasuari karena perbuatan orang yang iri atas hubungan mereka. Dalam lagu tersebut mengatakan laki-laki sangat penting karena ketika perempuan mengalami kesulitan pasti laki-laki akan membantunya. Makna lagu tersebut adalah pentingnya peran laki-laki dalam kehidupan keluarga, terutama dalam kehidupan ekonomi laki-laki berperan penting untuk mensejahterakan keluarga termasuk membantu kehidupan orang tua strinya. Oleh karena itu, lagu ini secara khusus berpesan kepada perempuan agar senantiasa menghargai suaminya karena ketika sudah tidak bersamanya lagi pasti akan mengalami banyak kesulitan hidup. Demikian pula laki-laki juga harus menjaga dan menghargai perempuan karena perannya sangat penting dalam kehidupan berkeluarga. Nilai-nilai yang dipetik dari lirik lagu tersebut adalah segala  rintingan hidup dalam keluarga akan mudah dilewati apabila suami dan stri saling bekerja sama. </item>
+        <item>Lagu ini mengisahkan tentang kasuari jelmaan terkena jerat karena mencuri makanan di kebun orang. Sebelumnya sudah diingatkan tuannya agar tidak mencari makan di dusun dan kebun orang lain, tetapi kasuari tersebut selalu melawan. Pada suatu waktu kasuari yang hendak mencuri makan di kebun tersebut terkena jerat yang sengaja dibuat oleh tuan pemilik kebun. Kisah ini menegaskan bahwa orang yang selalu melawan perintah pasti dikemudian hari akan mengalami musibah. Misalnya melawan perintah orang tua untuk mencuri,  melawan untuk konsumsi miras, melawan untuk bergabung dengan kelompok pengacau dan sebagainya pasti suatu saat akan terjerat kasus hukum atau mengorbankan jiwa dan raganya secara sia-sia. </item>
+        <item>Lagu ini mengisahkan tentang seorang laki-laki yang menjelma menjadi kasuari kembali menjadi manusia berkat bantuan strinya yang dengan setia mendampinginya walaupun laki-laki tersebut masih sebagai kasuari. Setelah berubah menjadi manusia, laki-laki tersebut kawin stri baru.  Dalam kehidupan sehari-hari, stri pertama selalu diperlakukan tidak adil, misalnya makanan hasil buruan hanya diberi bagian yang kurang bagus. Hal tersebut membuat stri pertama  sakit hati dan kecewa terhadap perlakuan suaminya. Oleh karena itu, stri pertama secara diam-diam pergi meninggalkan suaminya dengan membawa semua kekayaaan alam menggunakan noken Men Yamba (Noken Besar), yaitu semua hewan buruan yang terdapat di wilayah tersebut. Pada waktu itu, suaminya seperti biasa mencari hewan buruan di semua tempat tetapi tidak menemukan apapun. Mulai hari itu mereka mengalami musibah kelaparan karena kekurangan makanan dan hasil buruan. Makna lagu tersebut adalah ketika laki-laki sudah berhasil dalam kehidupannya, misalnya menjadi kaya atau menjadi orang yang hebat seringkali berpoligami dan  melupakan jasa seorang stri pertama yang senantiasa mendampingi suaminya melewati masa-masa sulit. Untuk itu, lagu tersebut berpesan kepada kita agar tidak menyudutkan atau menyisihkan stri yang pernah berjasa besar dalam hidup kita, sebab sehebat-hebatnya kita saat ini karena jasa seorang stri yang pernah membantu kita pada masa-masa sulit.  Dengan demikian, seyogyanya laki-laki yang poligami dapat memperlakukan stri-strinya secara bijaksana.  </item>
+        <item>Abiurunip artinya pesawat. Lagu tersebut mengisahkan tentang orang tua yang sedang bersedih sambil menyanyi menunggu pesawat yang akan datang memberangkatkan anaknya ke tempat yang jauh. Dengan menyanyi lagu tersebut Ia membayangkan pesawat yang akan datang menjemput anaknya melewati bagian atas punggung gunung Apom atau akan melewati bagian bawah puncak gunung Apom. Perasaan sedih untuk anak kandung yang pergi ke tempat perantauan sering dialami oleh semua orang tua karena anak merupakan tulang punggung masa depan keluarga dan bangsanya. Oleh karena itu,  orang tua selalu mengharapkan anaknya yang di perantuan senantiasa dalam keadaan yang sehat dan aman.  Makna lagu tersebut adalah kasih sayang orang tua yang tak pernah berkesudahan terhadap anak-anaknya.</item>
+        <item>Lagu tersebut mengisahkan tentang kisah perpisahan dengan orang yang disayangi dan berharap suatu ketika dalam jangka waktu yang tidak terlalu lama dapat bertemu kembali. Peristiwa perpisahan dengan orang yang disayangi selalu dialami oleh semua orang, entah perpisahan jangka waktu singkat, lama  maupun selamanya sering membuat kita merasa sedih atau patah hati. Perasaan tersebut normal dialami oleh semua orang, namun yang mesti dihindarkan adalah kesedihan yang berlebihan bisa menimbulkan depresi,  stres , membuang waktu dan tenaga. Oleh karena itu, hendaknya boleh bersedih asal bisa mengontrol diri agar tidak membuang waktu, pikiran dan tenaga. </item>
+        <item>Lagu ini mengisahkan tentang seorang perempuan yang membayangkan andai memiliki  suami pasti akan membunuh kuskus pohon yang sedang di kejar-kejar anjing di bawah tebing puncak gunung Apom untuk  membayar maskawin kepada orang tuanya. Lagu tersebut menegaskan pentingnya peran laki-laki atau suami dalam keluarga, bila tanpa suami hidupnya akan semakin sulit dan tidak bisa membahagiakan keluarganya. Oleh karena itu, lagu tersebut berpesan kepada kita agar senantiasa menjaga dan mencintai seorang suami. </item>
+        <item>Lirik lagu ini mengisahkan tentang burung-burung nuri yang selalu berkicau pada waktu mau ke sarangnya masing-masing. Lagu tersebut sesungguhnya menggambarkan orang-orang yang berkompak mengenakan segala perlengkapan tari-tarian dan meriasnya bagai burung nuri yang berwarna-warni dan indah untuk dipandangnya. Ketika sudah siap, mereka kompak memulai acara dansa. Makna lagu tersebut adalah keindahan dan kekompokkan. Dalam acara pesta dansa mesti dipersiapkan dengan baik agar tampak gagah dan indah  dipandang mata. Terutama tentang nilai-nilai kedisiplinan dan kekompakkan kita mesti belajar dari burung nuri yang selalu kompak dan tepat waktu, misalnya ketika hari sudah mulai gelap semua akan  berkicau dan berkompak pulang ke sarangnya masing-masing. Nilai-nilai tersebut yang seyogyanya diterapkan dalam acara pesta dansa, yaitu senantiasa kompak dan disiplin</item>
+        <item>Lagu ini menggambarkan musim tari-tarian, dimana berbagai orang akan beramai-ramai mengenakan berbagai perlengkapan tari-tarian dan merias wajahnya hingga menjadi indah dan gagah bagai burung-burung nuri yang berwarna-warni, seperti ketika musim bunga pohon  dikset dan kapset mekar mengundang berbagai jenis burung nuri.  Selain itu, lagu ini mengandung arti sakral, yaitu menggambarkan waktu inisiasi adat tiba biasanya para peserta laki-laki  remaja dan dewasa dikenakan berbagai atribut adat dan  diisolasi disuatu tempat tertentu. Dalam konteks tersebut, burung nuri melambangkan para peserta inisiasi yang dihiasai dengan berbagai perlengkapan dan burung nuri memakan bunga pohon yang mekar artinya mereka dibekali dengan berbagai macam pengetahuan, didikkan mental dan spiritual.</item>
+        <item>Sikaopkon mena artinya noken yang dihasai dengan berbagai macam bulu burung. Yamilki artinya orang yang berasal dari wilayah okyamil (tempat produksi kapak batu jenis takol yamil). Menurut kepercayaan masyarakat suku Ngalum Ok, mengalungkan noken sikaopkon pada waktu mau pergi ke tempat acara dansa di wilayah yang jauh akan mempercepat jarak tempuh dan tidak akan mengalami hambatan dalam perjalanan. Makna lagu tersebut adalah bila ingin pergi ke tempat yang jauh hendaknya melengkapi diri dengan berbagai fasilitas dan bekal agar tidak mengalami hambatan dalam perjalanan. </item>
+        <item>Bilim dan samol adalah dua jenis kayu besi yang biasa dipakai untuk buat anak panah. Anak panah yang biasa hanya dibuat satu baris gigi sedangkan kayopnen talik adalah jenis anak panah yang dibuat gigi ganda atau dua baris (depan dan belakang). Jenis anak panah ini dibuatnya agak rumit dan dianggap sangat berbahaya karena banyak bergigi sehingga ketika masuk dalam tubuh manusia atau hewan sulit untuk dicabut. Lagu ini menggambarkan permasalahan dalam hidup, ada masalah yang bisa selesaikan secara cepat dan ada yang sangat rumit. Masalah yang mudah diselesaikan dianalogikan seperti anak panah biasa (satu gigi) karena mudah dicabut. Sedangkan masalah yang rumit atau sulit diselesaikan adalah kayopnen talik yang bergigi ganda. Oleh karena itu, dalam nasehat orang tua sering mengatakan janganlah coba-coba menggunakan kayopnen talik karena sangat berbahaya dan sulit untuk dicabutnya atau artinya sulit untuk menyelesaikan persoalan tersebut.</item>
+        <item>Lagu ini mengisahkan  tentang perasaan cinta seseorang terhadap kekasihnya. Dalam lirik lagu tersebut mengatakan jangan ragu-ragu atau kuatir,  saya masih menyimpan dan menjaga cinta kita. Sebab cinta yang kita bangun adalah cinta yang indah bagai warna-warninya bulu burung nuri. Namun  dalam suatu hubungan percintaan sering terjadi keragu-raguan, baik oleh laki-laki terhadap perempuan ataupun sebaliknya perempuan terhadap laki-laki. Biasanya keragu-raguan timbul karena adanya perasaan cinta yang paling dalam. Ketika ada keragu-raguan pasti masing-masing pihak akan menyatakan perasaannya dengan jujur, sebagaimana dalam lirik lagu tersebut seseorang yang diragukan mengatakan bahwa perasaan cintaku untuk dirimu masih simpan, sebab rasa cinta  yang saya simpan ini sangat indah bagai bulu burung nuri.  Pernyataan tersebut semata-mata untuk meyakinkan hubungan cintanya. </item>
+        <item>Lagu ini membayangkan pemandangan gunung yakum yang indah, cuaca cerah, angin sepoi-sepoi dan burung-burung darkor berkicau merdu sebagai tanda musim panas telah tiba.  Lagu ini sering dinyanyikan pada waktu musim panas tiba, sambil menyanyi mereka membayangkan dusun-dusun yang kaya, gunung-gunung yang menghijau, sumber air yang jernih dan burung-burung yang berkicau merdu dapat memberikan kepuasan hati, ketenteraman hidup dan ketenangan jiwa. Makna lagu tersebut adalah harapan akan kehidupan yang lebih baik, yaitu aman, damai dan tenteram. Sebab dalam kehidupan sehari-hari tak lepas dari berbagai permasalahan sosial, ekonomi dan politik  yang mengakibatkan jiwa kita tidak tenang dan tentaram. Oleh karena itu, lagu ini dinyanyikan sebagai dambaan akan kehidupan yang lebih baik seperti keindahan alam yang senantiasa memberikan kepuasan hati, ketenteraman hidup dan ketenangan jiwa.</item>
+        <item>Lagu ini mengisahkan tentang orang-orang yang disisihkan,  dibenci, disudutkan, didengki dan disingkirkan. Dimana dalam lagu tersebut mengatakan usirlah  ke tebing terjal, artinya tidak diberikan ruang untuk hidup. Dalam konteks ini orang-orang yang berkuasa atas politik, sosial dan ekonomi seringkali merasa diri  paling superior, paling beradab,  paling kaya dan paling berkuasa sehingga menyisihkan,  menyudutkan dan menyingkirkan orang-orang yang lemah. Oleh karena itu, lagu ini berpesan kepada kita agar senantiasa hidup berdampingan, saling berbagi, saling menghargai dan  saling mengasihi antara satu dengan yang lain tanpa membedakan  golongan sosial, ekonomi, politik,  suku, agama dan ras.</item>
+        <item>Min dan sep adalah dua jenis pohon yang selalu memberikan kesuburan tanah. Lagu tersebut  mengisahkan tentang orang-orang yang berkuasa atas status sosial, ekonomi dan politik menyingkirkan, menyudutkan  dan menyisihkan orang-orang yang tidak memiliki kuasa atau orang lemah. Istilah populernya adalah diskriminasi dan marginalisasi  sosial, ekonomi dan politik terhadap individu atau kelompok yang lain. Misalnya  lahan-lahan perkebunan atau jabatan politik dikuasai oleh seseorang atau kelompok tertentu dan menyudutkan atau menyingkirkan pihak yang lain. Oleh karena itu, melalui lagu ini berperan kepada kita agar senantiasa bersikap adil, hidup saling berdampingan dan saling membantu antara satu dengan yang lainnya.</item>
+        <item>Lagu ini mengisahkan tentang orang-orang yang berburuh di hutan, ketika   salah satu orang berhasil membunuh burung berjenis mik mereka  yang lainnya turut bersuka cita dengan memekik dan berhura-hura. Makna dari lirik lagu tersebut adalah kekompokkan, persatuan dan saling mendukung antara satu dengan yang lain. Misalnya ada yang berhasil dalam bidang tertentu maka seyogyanya yang lain turut mendukungnya sebagaimana dalam lirik lagu tersebut, yaitu keberhasilan seseorang membunuh burung disambut dengan suka cita oleh yang lainnya. Nilai-nilai tersebut mestinya dipupuk dalam kehidupan sehari-hari dan menghilangkan segala sikap iri hati, ambisi dan dengki atas keberhasilan atau  kesuksesan orang lain.</item>
+    </string-array>
+
+    <string-array name="title3">
+        <item>Baingarem</item>
+        <item>Neyumop</item>
+        <item>Neyumop</item>
+        <item>Neyumop</item>
+        <item>Neyumop</item>
+    </string-array>
+
+    <string-array name="description3">
+        <item>Dindin yangamo kopa dunenkoro inek manek talik kuweng kuweng nom kuweng.</item>
+        <item>Ilumbang sitkutep bayumbang tolkutep nokiriki nokebenayo.</item>
+        <item>Ilumo omo dio talip om ayok buruno om keei.</item>
+        <item>Bayum iribupo om denden talupo, bayum iribupo ne omo.</item>
+        <item>Ilum taman kiradukot unuko, bayum taman kopadukot unuko, okwino amendirkot unuko.</item>
+    </string-array>
+
+    <string-array name="adalah3">
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+    </string-array>
+
+    <string-array name="terjemahan3">
+        <item></item>
+        <item>Ilumbang  dan bayumbang saya pergi ke  iripom.</item>
+        <item>Bibit keladi ilum, mereka bawah datang bibit keladi </item>
+        <item>Bayum iribup kami lapar keladi, bayum iribup saya lapar keladi.</item>
+        <item>Pergilah dia ke ilum taman, pergilah dia ke bayum taman, anjing menangis-nangis.</item>
+    </string-array>
+
+    <string-array name="makna3">
+        <item>Lagu tersebut berupa ajakan untuk berdansa ria dan bersukacita bersama. Kadang-kadang pada pesta dansa “bar wos damon”  laki-laki mengajak perempuan untuk berdansa bersama atau sebaliknya. Namun lagu tersebut bermakna lebih luas, yaitu ajakan untuk senantiasa bersukacita bersama, saling berdamai, saling bekerja sama, saling mendukung, saling menguatkan dan  saling berbagi. Dengan cara demikian kita dapat menghindari berbagai permasalahan sosial, ekonomi dan politik yang sering menimbulkan  persoalan pribadi, antara individu maupun antar kelompok.</item>
+        <item>Dalam lagu tersebut, ilumbang dan bayumbang adalah dua tempat khayalan (tidak nyata) yang merupakan tempat dambaan masyarakat suku Ngalum Ok. Dua tempat tersebut digambarkan sebagai tempat yang  aman, damai, tenteram dan  tempat yang serba ada atau serba melimpah. Oleh karena itu,  mereka mendambakan kehidupan di Iripom (tempat nyata) sama seperti dua tempat tersebut.  Makna yang dipetik dari lagu tersebut adalah dambaan akan kehidupan yang aman, damai dan sejahtera.</item>
+        <item>Lagu ini dinyanyikan  setelah leluhur marga Nalsa Wayam membawa keladi sakral dari wilayah asalnya Sop Awit ke Iriding (Okbibab). Lagu tersebut dinyanyikan sebagai pujian syukur atas pemberian keladi kehidupan (sakral) yang dipercaya memberi kekuatan, kedamaian, kesuburan dan kesejahteraan hidup. Masyarakat suku Ngalum Ok pada umumnya memandang  Om atau keladi sebagai makanan yang sangat penting.  Keladi selalu digunakan sebagai medium utama dalam penyelenggaraan pendidikan inisiasi, pesta pernikahan, pesta perdamaian, pesta syukuran, ritual kematian orang-orang penting dan sebagainya. Keladi termasuk makanan yang sakral dalam kehidupan masyarakat suku Ngalum Ok sehingga dilarang memberi makan kepada binatang, seperti anjing, babi, kasuari dan sebagainya. </item>
+        <item>Bayum iribup artinya tempat khayalan (tidak nyata) yang merupakan tempat dambaan masyarakat setempat karena dipercaya  selalu aman, damai, tenteram dan  tempat yang serba ada atau serba melimpah. Ketika masyarakat hidup dalam ketidakpastian, kekurangan, ketidakberdayaan dan  kurang sehat mereka senantiasa memohon kepada Maha Pencipta dan leluhur agar diberi kekuatan, kedamaian, kesuburan dan kesejahteraan hidup melalui keladi sakral.  Sebagaimana dalam lirik lagu tersebut  mengatakan bayum iribup kami/saya lapar keladi, artinya kami lapar akan kehidupan yang bersemangat, aman, damai, tenteram dan sejahtera. </item>
+        <item>Dalam lagu tersebut, ilum taman dan bayum taman adalah dua tempat khayalan (tidak nyata) yang merupakan tempat dambaan masyarakat akan  kehidupan  yang aman, damai, tenteram dan  tempat yang serba ada atau serba melimpah. Anjing menangis-nangis artinya manusia hidup dalam situasi buruk, tidak tenteram, tidak damai, tidak bersahabat, tidak bersolider,  kurang sehat, hidup susah dan sebagainya. Ketika hidup dengan keadaan buruk seperti itu, hendaklah kita segera pergi ke  ilum taman dan bayum taman, artinya pergi ke situasi dan kondisi yang senantiasa aman, damai dan sejahtera. </item>
+    </string-array>
+
+    <string-array name="title4">
+        <item>Kurip Bara</item>
+    </string-array>
+
+    <string-array name="description4">
+        <item>Kulep okpirimso unoknar, wakom kitpirimso unoknar, lakon kormuka dae dumben kopkulep unoko.</item>
+    </string-array>
+
+    <string-array name="adalah4">
+        <item>Terjemahan : </item>
+    </string-array>
+
+    <string-array name="terjemahan4">
+        <item>Cendrawasih bermandi dan mau pergi, cendrawasih menari-nari dan mau pergi, saudaraku keluar dan lihat dia pergi. </item>
+    </string-array>
+
+    <string-array name="makna4">
+        <item>Lagu tersebut menggambarkan burung cendrawasih yang selalu bermandi dan menari-nari pada waktu-waktu tertentu. Dalam lagu tersebut cendrawasih bermandi artinya para penari dansa mengenakan berbagai atribut dan merias tubuh hingga menjadi gagah dan indah untuk dipandang, sedangkan cendrawasih menari-nari artinya orang bersemangat dalam berdansa bagai burung cendrawasih yang setiap hari menari-nari tanpa lelah. Lagu ini berpesan kepada agar senantiasa tampil gagah, memesona, bersuka cita  dan senantiasa memberikan spirit  dan inspirasi baru. </item>
+    </string-array>
+
+    <string-array name="title5">
+        <item>Bar Salpa Paklonki</item>
+        <item>Bar Salpa Paklonki</item>
+        <item>Bar Salpa Paklonki</item>
+        <item>Bar Salpa Paklonki</item>
+        <item>Bar Salpa Paklonki</item>
+    </string-array>
+
+    <string-array name="description5">
+        <item>Takol tenom dioabep betenbin borayo, daketbin borayo, Mikirambon, Kaerambom, yaee.</item>
+        <item>Tilumop bayumop bapirumo neome.</item>
+        <item>Birkur wokur aipo om tekela kurumbenipo.</item>
+        <item>Kukupo alukdindin aipa wol aipa kukupo.</item>
+        <item>Aton saraya tale iyum bayum unoro winbilini.</item>
+    </string-array>
+
+    <string-array name="adalah5">
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+    </string-array>
+
+    <string-array name="terjemahan5">
+        <item>Bawahlah kapak batu agar saya bersihkan semak-semak di Mikirambon dan  Kaerambom.</item>
+        <item>Tilumop dan bayumop saya lapar keladi.</item>
+        <item>Perempuan kulit putih dan kulit hitam kikis keladi bakar bunyinya terdengar.</item>
+        <item>Beritahulah arah jalan ke rumah Alukdindin.</item>
+        <item>Matahari sedang kembali ke peraduannya iyum bayum memancarkan energi kehidupan.</item>
+    </string-array>
+
+    <string-array name="makna5">
+        <item>Mikirambom dan Kaerambon  adalah nama wilayah di bagian selatan dan barat daya Pegunungan Bintang. Lirik lagu tersebut mengisahkan tentang orang yang meminta kapak batu untuk membersihkan atau memotong semak-semak.  Dalam lirik lagu tersebut, semak-semak artinya suatu situasi dan kondisi yang kurang baik atau dalam istilah pembangunan adalah hidup dalam kemiskinan, kebodohan dan keterbelakangan. Oleh karena itu, memohon bantuan untuk difasilitasi. Namun, dalam lagu tersebut orang yang meminta  bertindak sebagai subjek. Hal tersebut tampak dari dimintanya kapak batu untuk membersihkan semak-semak sendiri, bukan sebaliknya meminta bantuan untuk dibersihkan. Dengan demikian, lirik lagu tersebut berpesan kepada kita agar senantiasa bertindak sebagai subjek bukan sebagai objek. Secara khusus berpesan kepada mereka yang ingin membantu sesama, dalam lirik lagu tersebut menegaskan memberi kapak batu lebih baik daripada dibantu bersihkan atau sama dengan peribahasa  memberi pancing lebih baik daripada memberi ikannya. </item>
+        <item>Ilumbang dan bayumbang adalah dua tempat khayalan (tidak nyata) yang digambarkan seperti tempat yang indah, damai, nyaman dan serba tersedia. Dalam lagu tersebut mengatakan saya lapar keladi, tilumop dan bayumop bantulah saya, artinya meminta leluhur agar diberikan kesuburan, kedamaiaan dan kesejahteraan.  Tidak dipungkiri bahwa dalam kehidupan sehari-sehari tidak terlepas dari berbagai permasalahan hidup. Oleh karena itu, masyarakat Ngalum Ok seringkali meminta pertolongan leluhur untuk diberi perlindungan dan pertolongan, seperti dalam lirik lagu tersebut meminta bantuan makanan. </item>
+        <item>Lagu tersebut mengisahkan tentang dua perempuan siapkan keladi untuk makan bersama. Lagu ini sebagai bentuk pujian, kebanggaan dan penghormatan terhadap perempuan yang senantiasa berperan penting dalam perekonomian keluarga. Dalam lirik lagu tersebut,  Kurumbenipo artinya bunyi-bunyian kikisan keladi pertanda kedua perempuan tersebut  bersemangat menyiapkan makanan untuk memberi makan keluarga atau banyak orang. Makna yang dipetik dari lagu tersebut adalah semangat melayani dan berkorban untuk banyak orang. Dalam budaya suku Ngalum Ok atau Papua pada umumnya posisi perempuan tidak begitu menguntungkan dalam hal keturunannya karena menganut patrilineal atau mengikuti garis keturunan ayah (setiap anak mengikuti marga ayah) tetapi  pengorbanannya terhadap kehidupan keluarga jauh lebih besar dibanding Ayah. Walaupun demikian mereka tidak pernah merasa rugi, tidak mengeluh, tidak lelah dan tidak menyerah dalam mengurus keluarga. Karakter tersebut yang seyogyanya dimiliki juga oleh laki-laki untuk melayani sesama, terutama para pemimpin seyogyanya belajar dari karakter seorang Ibu untuk melayani masyarakat dengan sepenuh hati, tidak merasa rugi, tidak mengeluh, tidak lelah dan tidak menyerah dalam menjalankan tugas pelayanannya.</item>
+        <item>Lagu tersebut mengisahkan tentang orang yang meminta petunjuk jalan ke arah  rumah Alukdindin. Meminta petunjuk arah jalan sering kita lakukan ketika pergi ke suatu tempat yang  belum pernah dikunjungi atau dilewati, seperti kisah dalam lagu tersebut. Makna meminta petunjuk dalam lagu tersebut artinya meminta  informasi,  pengetahuan, nasehat dan teladan yang benar agar membantu hidupnya ke arah yang  lebih baik guna  mewujudkan tujuan hidupnya. Untuk itu, bila ada orang yang meminta petunjuk hendaknya  memberikan petunjuk yang baik dan benar agar memudahkan mereka mencapai tujuan hidupnya. </item>
+        <item>Lagu tersebut mengisahkan tentang matahari yang sedang kembali ke peraduannya dan pancaran sinarnya memberikan energi pada para penari. Lagu ini sering dinyanyikan pada sore hari ketika matahari mulai terbenam memancarkan sinarnya mengenai tubuh-tubuh para penari  yang sudah dilengkapi dengan berbagai aksesoris dan riasan. Masyarakat suku Ngalum Ok percaya pancaran sinar matahari sore yang mengenai tubuh para penari akan memberikan energi semangat dan tampak gagah. Oleh karena itu, acara pesta dansa biasanya dimulai sore hari menjelang matahari mulai terbenam.  Hal tersebut menunjukkan pentingnya manajemen waktu, dimana ada waktu yang tepat untuk memulai berdansa dengan lagu yang sesuai dan ada waktu tertentu para penari beristirahat dan sebagainya.  Dengan demikian,  pengaturan waktu yang tepat dan aktivitas yang tepat akan memberikan banyak manfaat.   </item>
+    </string-array>
+
+    <string-array name="title6">
+        <item>Kamil bara</item>
+        <item>Basen bara</item>
+        <item>Kaka tuk bara</item>
+        <item>Wol kukuron bara</item>
+        <item>Ok alut bara</item>
+    </string-array>
+
+    <string-array name="description6">
+        <item>Dikset kapseta bilipo okyaloptila sii basera bilo ngilinipo. </item>
+        <item>Kaka basen enonmina ema abar, podakan domip doyo depeario, tapkotio ningorio. </item>
+        <item>Tena dipwokio boryot kulipo tenemyot kulipo.</item>
+        <item>Aplima dingben unaro, taop ben unaro, yona tungulki etkot unaro/nginunaro, aplim talmondon ete unaro/nginunaro. </item>
+        <item>Doktere Dokbararoko.</item>
+    </string-array>
+
+    <string-array name="adalah6">
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+        <item>Terjemahan : </item>
+    </string-array>
+
+    <string-array name="terjemahan6">
+        <item>Berburu bunga pohon dikset dan kapset, sepanjang Okyalop burung nuri ramai-ramai berburu bunga.</item>
+        <item>Makanan orang basen ada datang, janganlah takut peganglah dia, tambah peluklah.</item>
+        <item>Anak terkasih, engkau ditempatkan di lubang pohon bor atau lubang pohon tenem.</item>
+        <item>Ia pergi lewat atas gunung Aplim, pergi lewat bawah, injakan kaki terakhir di atas tangga Aplim untuk pergi selamanya.</item>
+        <item>Noken sakral yang dihiasi bulu-bulu burung tampak terbuka,  rapi dan cantik.</item>
+    </string-array>
+
+    <string-array name="makna6">
+        <item>Lagu tersebut dinyanyikan pada saat upacara inisiasi pendidikan pendewasaan kamil (inisiasi tahap 2). Dalam lirik lagu tersebut, musim bunga pohon dikset dan kapset artinya adalah musim inisiasi adat tiba sehingga orang dari berbagai golongan dan latarbelakang, yaitu mulai dari anak-anak, remaja, dewasa hingga orang tua dari berbagai kampung berkumpul di suatu tempat untuk mengikuti pelaksanaan inisiasi adat kamil. Sama halnya ketika musim bunga dikset dan kapset mengundung berbagai jenis burung datang berburu bunga, terutama burung nuri. Dalam lirik lagu tersebut burung nuri artinya para peserta inisiasi yang sudah dihiasi dengan berbagai aksesoris dan tubuhnya digosok tanah merah sakral.  Warna-warni burung nuri tersebut melambangkan  warni-warninya aksesoris dan riasan tanah merah sakral peserta inisiasi. Burung nuri berburu bunga pohon dikset dan kapset artinya adalah para peserta inisiasi berkumpul bersama dan beramai-ramai untuk berburu pengetahuan dan keterampilan hidup, nasehat atau didikan etika, moral dan spiritual agar menjadi pribadi yang dewasa. Sedangkan Okyaloptil artinya tempat khayalan yang menggambarkan hak ulayat atau asal-usul suatu komunitas adat. Dalam pendidikan inisiasi, leluhur yang mendiami okyaloptil (asal-usul marga/klen) akan senantiasa turut menyertai proses pelaksanaan inisiasi adat hingga berakhir.  Pendidikan inisiasi adat kamil tersebut dimaksudkan untuk menempa seseorang agar menjadi orang yang kuat dan tangguh dalam menjalani kehidupan. Berturut-turut selama dua minggu bahkan sampai satu bulan mereka dilatih melaksanakan puasa makan, minum, merokok, menjauhkan diri dari perapian, dan sebagainya. Selain mendapat perlakuan dan didikan mental yang keras, mereka juga mendapatkan pembelajaran berbagai pengetahuan mengenai adat seperti tata cara berburuh, cara berkebun dan segala rahasia-rahasia yang berhubungan dengan relasi dengan sesama atau hubungan kekerabatan, aspek religi, berburu, bercocok tanam, juga mempelajari simbol-simbol yang bersifat sakral serta dongeng-dongeng atau mitos-mitos. </item>
+        <item>Lagu tersebut dinyanyikan pada waktu puncak upacara inisiasi adat basen, yaitu suatu inisiasi adat yang  tingkatannya lebih tinggi dari inisiasi adat kamil dan khusus hanya diikuti komunitas adat basen (khusus marga basen).  Dalam lagu tersebut mengatakan makanan orang  apid an  datang, janganlah takut peganglah dia, tambah peluklah artinya pada waktu puncak inisiasi basen, mereka percaya ada roh kebaikan yang akan datang memberi kekuatan hidup bagi  mereka. Oleh karena itu, masing-masing harus pegang erat dan peluklah kuat-kuat agar roh kebaikan tersebut senantiasa hidup bersama mereka untuk memberikan tuntutan,  perlindungan, pertolongan dan kekuatan hidup. Dalam inisiasi basen para peserta melakukan puasa dan pantangan selama berbulan-bulan di hutan.  Mereka yang mengikuti inisiasi biasanya melalui proses seleksinya sangat ketat dengan syarat umur minimal 30 tahun ke atas. Inisiasi tersebut hanya fokus pada pembinaan mental dan  spiritual. Orang yang sudah mengikuti pendidikan ini dianggap sebagai pemimpin dan juga sebagai Kaka Alutki (orang kudus atau orang pilihan). Oleh karena mereka dianggap orang kudus sehingga mereka yang meninggal biasanya di semayamkan di Bokam Iwol (rumah adat khusus laki-laki) agar perempuan dan anak-anak laki-laki yang belum diinisiasikan tidak melihat jenazahnya karena dipercaya akan mendatangkan musibah dan gangguan rohnya. Mereka yang melihat jenazah-pun hanya diperlihatkan ujung kaki dan hidung saja karena badannya terbungkus dengan kulit kayu khusus. Tempat pemakaman Alutki terpisah dengan pemakaman umum, biasanya di goa-goa tertentu.</item>
+        <item>Dalam lagu tersebut mengatakan anak  terkasih apakah engkau dikuburkan di lubang pohon boryot atau tenemyot. Pohon bor dan tenem adalah dua jenis pohon yang biasa tumbuh besar, rindang dan terdapat lubang besar, sehingga sering digunakan untuk memakamkan  orang meninggal.  Lagu tersebut sering dinyanyikan sebagai ungkapan kesedian atas meninggalnya sanak-saudaranya. Mereka nyanyikan dalam setiap acara duka, walaupun saat ini orang yang meninggal dikuburkan dalam tanah, tidak seperti dulu di makamkan di lubang pohon, di atas para-para pohon dan goa-goa. </item>
+        <item>Lagu tersebut khusus dinyanyikan untuk orang meninggal dari komunitas adat Basen yang sudah dinobatkan sebagai Alutki (orang kudus). Dalam lagu tersebut menegaskan bahwa orang basen yang meninggal  akan  pergi melewati tangga gunung Aplim untuk sampai pada kehidupan yang abadi. Komunitas masyarakat adat basen percaya mereka berasal dari Aplim dan ketika meninggal mereka akan balik ke Aplim sedangkan manusia tukon percaya mereka berasal dari Apom dan akan kembali ke Apom. Oleh karena itu, ketika orang basen meninggal mereka selalu mengatakan “Ia kembali ke gunung Aplim” demikian pula orang tukon mengatakan “ Ia kembali ke Apom.  Dalam lagu tersebut menegaskan bahwa manusia Aplim Apom pada umumnya percaya akan kehidupan yang abadi.  Masyarakat Ngalum Ok menyebut tempat kehidupan abadi adalah  Wokbin-Takumbin, artinya tempat yang sumber daya alamnya sangat melimpah, tempat dimana segala sesuatu yang diinginkan tersedia atau tempat yang tidak pernah berkesusahan.</item>
+        <item>Lagu tersebut sering dinyanyikan para peserta dansa ketika dalam perjalanan menuju tempat acara pesta dansa. Mereka  meminta agar alam leluhur  senantiasa memberikan keindahan,  kegagahan, kekuatan, perlindungan dan cuaca yang baik selama berdansa bagai noken sakral yang dihiasi bulu-bulu burung yang berwarna-warni dan tampak rapi.  Lagu tersebut menegaskan pentingnya relasi yang baik dengan alam leluhur dalam setiap penyelenggaraan kehidupannya. Masyarakat Ngalum Ok percaya, jika kita  tidak bersahabat dengan alam pasti akan mengalami banyak kesulitan atau permasalahan hidup, misalnya terjadi cuaca buruk, bencana alam, kelaparan, kecelakaan, berbuat tidak bermoral, tidak beretika dalam perkataan dan perbuatan dan sebagainya. Oleh karena itu, sebelum dan sesudah menyelenggarakan suatu kegiatan mereka selalu meminta perlindungan, tuntutan dan  pertolongan dari alam leluhur.</item>
+    </string-array>
+
+</resources>
